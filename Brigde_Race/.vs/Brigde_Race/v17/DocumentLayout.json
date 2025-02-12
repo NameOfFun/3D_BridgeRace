@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|c:\\users\\damha\\downloads\\unity\\brigde_race\\brigde_race\\assets\\_game\\scripts\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damha\\AppData\\LocalLow\\DefaultCompany\\Brigde_Race\\gamedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|c:\\users\\damha\\downloads\\unity\\brigde_race\\brigde_race\\assets\\_game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\spawnbricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\spawnbricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|c:\\users\\damha\\downloads\\unity\\brigde_race\\brigde_race\\assets\\_game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\spawnbricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\spawnbricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A748B143-89DC-9F1B-0AFF-8150FCCA2F70}|Assembly-CSharp.csproj|C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\assets\\_game\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "gamedata.json",
-              "DocumentMoniker": "C:\\Users\\damha\\AppData\\LocalLow\\DefaultCompany\\Brigde_Race\\gamedata.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\LocalLow\\DefaultCompany\\Brigde_Race\\gamedata.json",
-              "ToolTip": "C:\\Users\\damha\\AppData\\LocalLow\\DefaultCompany\\Brigde_Race\\gamedata.json",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\LocalLow\\DefaultCompany\\Brigde_Race\\gamedata.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T13:27:18.08Z",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:01:30.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\GameData.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\GameData.cs",
@@ -70,25 +67,11 @@
               "RelativeToolTip": "Assets\\_Game\\Scripts\\GameData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:25:27.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T13:25:27.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileManage.cs",
-              "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\FileManage.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\FileManage.cs",
-              "ToolTip": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\FileManage.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\FileManage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:19:59.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Ground.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Ground.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Ground.cs",
@@ -96,47 +79,45 @@
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Ground.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:32:46.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T02:32:46.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDgAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T16:14:20.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "JoyStick.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\JoyStick.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\JoyStick.cs",
               "ToolTip": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\JoyStick.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\JoyStick.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T06:51:28.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\CameraFollow.cs",
               "ToolTip": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\CameraFollow.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\CameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T06:41:20.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T06:41:20.725Z"
             },
             {
               "$type": "Document",
@@ -148,12 +129,11 @@
               "RelativeToolTip": "Assets\\_Game\\Scripts\\SpawnBricks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:00:37.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T11:00:37.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Brick.cs",
               "DocumentMoniker": "C:\\Users\\damha\\Downloads\\Unity\\Brigde_Race\\Brigde_Race\\Assets\\_Game\\Scripts\\Brick.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Brick.cs",

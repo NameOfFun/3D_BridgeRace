@@ -17,7 +17,6 @@ public class JoyStick : MonoBehaviour
         {
             Quaternion targetRotation = Quaternion.LookRotation(input);
             transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
-
             rigidbody.MovePosition(transform.position + input * moveSpeed * Time.deltaTime);
         }
     }

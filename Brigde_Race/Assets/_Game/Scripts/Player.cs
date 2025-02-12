@@ -6,7 +6,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] private Rigidbody rb;
-    [SerializeField] private GameObject player;
     [SerializeField] private Color currentColor;
     [SerializeField] private Transform brickHolder;
     private List<Brick> OwnerBricks = new List<Brick>();
@@ -19,15 +18,16 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
-    
+
     // Update is called once per frame
     void Update()
     {
         move();
         rb.GetComponent<Renderer>().material.color = currentColor;
         bool ray = CanMoveUp();
+        brickHolder = this.transform;
     }
 
     private void move()
@@ -50,18 +50,11 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //if (other.gameObject.CompareTag("Brick") && other.GetComponent<Renderer>().material.color == currentColor)
-        //{
-        //    FindObjectOfType<SpawnBricks>().MarkForRespawn(other.transform.position, other.GetComponent<Renderer>().material.color);
-        //    AddBack(other.gameObject);
-        //    //Destroy(other.gameObject);
-        //}
-
         if (other.gameObject.CompareTag("Brick") && other.GetComponent<Renderer>().material.color == currentColor)
         {
             AddBack(other.gameObject);
         }
-        if (other.gameObject.CompareTag("Bridge_number"))
+        if (other.gameObject.CompareTag("Bridge_number") || other.gameObject.CompareTag("Bridge_number_last"))
         {
             Bridge(other.gameObject);
             if (!HasBrickOnHead() || !CanMoveUp())
@@ -109,7 +102,7 @@ public class Player : MonoBehaviour
 
         if (Physics.Raycast(rayOrigin, Vector3.down, out hit, rayDistance))
         {
-            if (hit.collider.CompareTag("Bridge_number"))
+            if (hit.collider.CompareTag("Bridge_number")|| hit.collider.CompareTag("Bridge_number_last"))
             {
                 if (HasBrickOnHead())
                 {
@@ -139,7 +132,6 @@ public class Player : MonoBehaviour
     {
         obj.transform.SetParent(brickHolder);
         obj.transform.rotation = brickHolder.rotation;
-
         obj.transform.position = brickHolder.position + transform.up * (countBrick * 0.5f) - transform.forward * 1f;
         countBrick++;
     }
